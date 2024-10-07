@@ -1,0 +1,43 @@
+.navbar-brand img {
+   height: 30px;
+   /* Set the height for the image */
+   width: auto;
+   /* Maintain aspect ratio */
+}
+
+.navbar-brand {
+   font-size: 24px;
+   /* Adjust font size for brand text */
+   line-height: 30px;
+   /* Align text vertically with the image */
+}
+
+.navbar-shadow {
+   box-shadow: 0 4px 15px rgba(255, 255, 255, 0.5);
+}
+
+body {
+   background-color: black
+}
+.para{
+   color: gray;
+}
+.mybtn{
+   text-align: center;
+   color: rgb(252, 167, 11);
+   background-color:gray;
+}
+.margin-left{
+   color: aliceblue;
+   margin-top: 100px;
+}
+h5{
+   text-align: center;
+   color: white;
+   margin-top: 30px;
+   font-size: larger;
+   font-style: italic;
+}
+.text-center{
+   color: rgb(206, 111, 10);
+}
